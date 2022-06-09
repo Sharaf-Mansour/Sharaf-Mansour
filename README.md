@@ -9,3 +9,5 @@ I love playing with C# and Blazor.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaf-Mansour&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Sharaf-Mansour)
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharaf-mansour&theme=dark)](https://github.com/Sharaf-Mansour)
+
+![Profile views](https://gpvc.arturio.dev/sharaf-mansour) 
