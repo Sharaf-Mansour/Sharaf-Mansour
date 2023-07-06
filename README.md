@@ -10,7 +10,8 @@ I love playing with C# and Blazor.
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sharaf-mansour&theme=dark)](https://github.com/Sharaf-Mansour)
 
-![Profile views](https://gpvc.arturio.dev/sharaf-mansour) 
+ [//]: # (https://gpvc.arturio.dev/sharaf-mansour) 
+![Profile views](https://komarev.com/ghpvc/?username=sharaf-mansour&style=for-the-badge&color=ff0000)
 # I am playing with
 
 
