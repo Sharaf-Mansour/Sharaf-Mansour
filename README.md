@@ -16,6 +16,7 @@ I love playing with C# and Blazor.
 # I am playing with
 
 
+
 [<img src="https://user-images.githubusercontent.com/55330747/202248289-4c45ac1f-5360-4d12-8eed-3bebb5bb2297.png" width="100"  height="100" >
 ](https://www.solidjs.com/)
 [<img src="https://user-images.githubusercontent.com/55330747/202249574-6c81a942-a5dd-4f4b-8cbe-6a17b04cd2a8.png" width="100" height="100" >
@@ -28,6 +29,7 @@ I love playing with C# and Blazor.
 ](https://dotnet.microsoft.com/en-us/apps/maui)
 [<img src="https://user-images.githubusercontent.com/55330747/206610521-8590e45c-f137-4d95-9c4b-165b7af793d3.png" width="100" height="100" >
 ](https://flutter.dev/)
-
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55330747/263460568-6db50bde-c6a4-4f24-84d5-e4e45700e21a.png" width="100"  height="100" >
+](https://vitejs.dev/)
 
  
