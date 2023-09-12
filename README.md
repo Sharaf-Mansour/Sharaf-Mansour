@@ -12,7 +12,7 @@ I love playing with C# and Blazor.
 [![Sharaf's github stats](https://github-readme-stats-sharaf-mansour.vercel.app/api?username=sharaf-mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&)](https://github.com/Sharaf-Mansour)
 
  [//]: # (https://gpvc.arturio.dev/sharaf-mansour) 
-![Profile views](https://komarev.com/ghpvc/?username=sharaf-mansour&style=for-the-badge&color=ff0000)
+![Profile views in 2023](https://komarev.com/ghpvc/?username=sharaf-mansour&style=for-the-badge&color=ff0000)
 # I am playing with
 
 
