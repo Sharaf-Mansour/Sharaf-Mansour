@@ -36,4 +36,8 @@ I love playing with C# and Blazor.
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55330747/268431492-05584f95-096a-4706-b44e-61fd3017c5ed.png" width="70"  height="70" >
 ](https://nextjs.org/#gh-dark-mode-only)
 
+## 🏆GitHub Trophies
+<p align="center" style="witdh:100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=sharaf-mansour&theme=dracula&no-frame=true&no-bg=false&margin-w=5&row=1" />
+</p>
  
