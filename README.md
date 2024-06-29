@@ -31,13 +31,13 @@
 ## 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/Sharaf-Mansour">
-    <img src="https://github-readme-stats-sharaf-mansour.vercel.app/api/top-langs/?username=sharaf-mansour&langs_count=20&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Languages"  width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharaf-mansour&langs_count=20&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Languages"  width="100%" />
   </a>
   <a href="https://github.com/Sharaf-Mansour">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharaf-mansour&theme=dark" alt="GitHub Streak"  width="49%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharaf-mansour&theme=dark" alt="GitHub Streak"  width="50%"/>
   </a>
   <a href="https://github.com/Sharaf-Mansour">
-    <img src="https://github-readme-stats-sharaf-mansour.vercel.app/api?username=sharaf-mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Sharaf's GitHub Stats"  width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sharaf-mansour&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Sharaf's GitHub Stats"  width="47%" />
   </a>
 </div>
 
