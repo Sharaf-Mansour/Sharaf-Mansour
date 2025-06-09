@@ -23,7 +23,7 @@
 [<img src="https://user-images.githubusercontent.com/55330747/202251262-c7ff56fe-bfe7-45a6-a1b1-31bc1509f356.png" width="70" height="70">](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [<img src="https://user-images.githubusercontent.com/55330747/206610072-19b7d699-e019-4d69-87ac-f86ed49100b1.png" width="70" height="70">](https://dotnet.microsoft.com/en-us/apps/maui)
 [<img src="https://user-images.githubusercontent.com/55330747/206610521-8590e45c-f137-4d95-9c4b-165b7af793d3.png" width="70" height="70">](https://flutter.dev/)
-[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55330747/263460568-6db50bde-c6a4-4f24-84d5-e4e45700e21a.png" width="70" height="70">](https://vitejs.dev/#gh-dark-mode-only)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55330747/263460568-6db50bde-c6a4-4f24-84d5-e4e45700e21a.png" width="70" height="70">](https://vitejs.dev/)
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55330747/268431488-2773fe26-d9c7-4026-9d16-be4e679257bb.png" width="70" height="70">](https://nextjs.org/#gh-light-mode-only)
 [<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/55330747/268431492-05584f95-096a-4706-b44e-61fd3017c5ed.png" width="70" height="70">](https://nextjs.org/#gh-dark-mode-only)
 
